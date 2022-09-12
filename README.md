@@ -5,7 +5,8 @@
 Primeiro projeto Fullstack realizado na semana React Spring do professor Nélio Alves. 
 
 A aplicação consiste em uma pesquisa em uma tabela podendo ser filtrada por data
-com nome e alguns dados dos vendedores e depois são apresentados na aplicação web.
+com nome e alguns dados dos vendedores, depois são apresentados na aplicação web e ainda tem a parte de 
+notificação que envia uma mensagem para o celular cadastrado. 
 
 ## Layout página 
 
@@ -25,8 +26,10 @@ com nome e alguns dados dos vendedores e depois são apresentados na aplicação
 3- Produção
   - Back end: Heroku;
   - Front end: Netlify;
-  - Banco de dados: h2
-  
+  - Banco de dados: h2;
+  - Postman;
+  - Twilio;
+
 ## Autor:
   
 Rafael de Souza Freire
